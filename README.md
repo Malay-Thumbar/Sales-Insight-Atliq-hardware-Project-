@@ -6,4 +6,4 @@
 
 Here is an Image of the Dashboard.
 
-![Screenshot (67)](https://github.com/Malay-Thumbar/Sales-Insight-Atliq-hardware-Project-/assets/140499156/c21e4f11-9877-44b6-92ad-172d71926f75)
+![Screenshot (67)](https://github.com/Malay-Thumbar/Sales-Insight-Atliq-hardware-Project-/assets/140499156/8901f90e-4d5e-4a0e-9349-958ac58c019e)
